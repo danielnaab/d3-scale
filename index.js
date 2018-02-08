@@ -4,6 +4,10 @@ export {
 } from "./src/band";
 
 export {
+  default as scaleCompound
+} from "./src/compound";
+
+export {
   default as scaleIdentity
 } from "./src/identity";
 
